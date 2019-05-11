@@ -12,6 +12,7 @@ public class Main {
         }
 
         ///this is test
+        //test 2
         else if (hour == 12) {
             System.out.println("12nn");
         }
