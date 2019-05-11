@@ -10,6 +10,8 @@ public class Main {
         } else if (hour < 12) {
             System.out.println(hour - 12 + 12 + "am");
         }
+
+        ///this is test
         else if (hour == 12) {
             System.out.println("12nn");
         }
